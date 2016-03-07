@@ -1,0 +1,12 @@
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\cs_hello\cs_hello\bin\Debug\cs_hello.exe.config
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\cs_hello\cs_hello\obj\Debug\cs_hello.csprojResolveAssemblyReference.cache
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\cs_hello\cs_hello\bin\Debug\cs_hello.exe
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\cs_hello\cs_hello\bin\Debug\cs_hello.pdb
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\cs_hello\cs_hello\obj\Debug\cs_hello.exe
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\cs_hello\cs_hello\obj\Debug\cs_hello.pdb
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\_2_c_sharp\cs_hello\cs_hello\bin\Debug\cs_hello.exe.config
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\_2_c_sharp\cs_hello\cs_hello\obj\Debug\cs_hello.exe
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\_2_c_sharp\cs_hello\cs_hello\obj\Debug\cs_hello.pdb
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\_2_c_sharp\cs_hello\cs_hello\bin\Debug\cs_hello.exe
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\_2_c_sharp\cs_hello\cs_hello\bin\Debug\cs_hello.pdb
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\_2_c_sharp\cs_hello\cs_hello\obj\Debug\cs_hello.csprojResolveAssemblyReference.cache
